@@ -16,5 +16,5 @@ The Mango package index and manager are `Apache 2.0 licensed`_. For notes on how
 .. _`Apache 2.0 licensed`: https://github.com/mangolang/mango/blob/master/LICENSE.rst
 .. _`contributing`: https://github.com/mangolang/mango/blob/master/CONTRIBUTING.rst
 .. _`behave`: https://github.com/mangolang/mango/blob/master/CODE_OF_CONDUCT.rst
-
+.. _compiler: https://github.com/mangolang/compiler
 .. _`Mango language`: https://mangolang.org/
